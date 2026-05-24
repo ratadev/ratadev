@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi there, I'm Jhofran Peñalver (ratadev) 💻
 
-<!--
-**ratadev/ratadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-Stack Web Developer with experience creating robust and scalable applications. I have worked in all areas of web development, but I am currently strengthening my foundation and taking on new challenges.
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Frontend | Backend | Herramientas & BD |
+| :--- | :--- | :--- |
+| HTML, CSS, Javascript | Node.js, Express, Python | PostgreSQL, MongoDB |
+| React, Astro | Go..., C#... | MySQL, Firebase, Git |
+| TypeScript, Tailwind | REST APIs, GraphQL | GitHub, Google Cloud |
+
+💬 Let's connect: [LinkedIn](link) · [Twitter/X](link) · [Website](link)
